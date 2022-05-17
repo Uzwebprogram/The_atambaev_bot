@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "firebase": "^9.7.0",
+    "node-telegram-bot-api": "^0.56.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "uy-ishi-10",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
